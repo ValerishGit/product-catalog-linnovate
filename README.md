@@ -14,11 +14,6 @@ This is a **Product Catalog App** built with **Next.js, TypeScript, Tailwind CSS
 
 ### Prerequisites
 
-Ensure you have the following installed:
-
-- **Node.js** (>= 16.x)
-- **npm** or **yarn**
-
 ### Steps to Install
 
 1. Clone the repository:
@@ -57,7 +52,4 @@ npm start
 ## Things to be done to improve upon the project
 
 In real life application, it would have been better to devide the reviews and products in the database
-
-Products Table
 Reviews Table that has a productID field pointing to the product
-this approach is better for bigger projects with alot of reviews
