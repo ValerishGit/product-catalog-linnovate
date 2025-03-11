@@ -19,7 +19,7 @@ This is a **Product Catalog App** built with **Next.js, TypeScript, Tailwind CSS
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/product-review-app.git
+   git clone https://github.com/ValerishGit/product-catalog-linnovate.git
    cd product-review-app
    ```
 
